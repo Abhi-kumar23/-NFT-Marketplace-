@@ -15,7 +15,7 @@ Here’s a final, polished README.md tailored for hackathon submission, written 
 
 #  NFT Marketplace (Hackathon Working Prototype)
 
-Welcome to our submission for [Hackathon Name]! This is a working prototype of a decentralized *NFT Marketplace* that allows users to mint, list, and purchase NFTs on the blockchain. The project is built using *Solidity, **Hardhat, and the **Polygon Amoy Testnet* (formerly Mumbai).
+Welcome to our submission for **HackVortex 2025** This is a working prototype of a decentralized *NFT Marketplace* that allows users to mint, list, and purchase NFTs on the blockchain. The project is built using *Solidity, **Hardhat, and the **Polygon Amoy Testnet* (formerly Mumbai).
 
 ---
 
